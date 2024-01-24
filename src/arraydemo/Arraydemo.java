@@ -5,7 +5,7 @@
 package arraydemo;
 
 /**
- *
+ * hahah
  * @author irtiza
  */
 public class Arraydemo {
